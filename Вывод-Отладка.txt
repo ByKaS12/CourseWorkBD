@@ -1,0 +1,78 @@
+﻿"OpenGLrememberProj.exe" (Win32). Загружено "C:\Users\SEEGa\Desktop\grafika_laba4-master\Debug\OpenGLrememberProj.exe". Символы загружены.
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\user32.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\win32u.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\glu32.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\gdi32.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\gdi32full.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp_win.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbase.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\opengl32.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\advapi32.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\combase.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\imm32.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\uxtheme.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\msctf.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\oleaut32.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\clbcatq.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\AppXDeploymentClient.dll". 
+"OpenGLrememberProj.exe" (Win32). Выгружено "C:\Windows\SysWOW64\AppXDeploymentClient.dll"
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\ig7icd32.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\dwmapi.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\wtsapi32.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\igdusc32.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\version.dll". 
+"OpenGLrememberProj.exe" (Win32). Выгружено "C:\Windows\SysWOW64\version.dll"
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\powrprof.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\umpdc.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\TextShaping.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\TextInputFramework.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\CoreUIComponents.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\CoreMessaging.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\SHCore.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\ws2_32.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntmarta.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\WinTypes.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\WinTypes.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\WinTypes.dll". 
+"OpenGLrememberProj.exe" (Win32). Выгружено "C:\Windows\SysWOW64\WinTypes.dll"
+"OpenGLrememberProj.exe" (Win32). Выгружено "C:\Windows\SysWOW64\WinTypes.dll"
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\oleacc.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\dxgi.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\d3d11.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\ResourcePolicyClient.dll". 
+"OpenGLrememberProj.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ResourcePolicyClient.dll"
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\igd10iumd32.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\shlwapi.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcrypt.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\ole32.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\ncrypt.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntasn1.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\DXCore.dll". 
+"OpenGLrememberProj.exe" (Win32). Загружено "C:\Windows\SysWOW64\cfgmgr32.dll". 
+Поток 0x15b4 завершился с кодом 0 (0x0).
+Поток 0x18d8 завершился с кодом 0 (0x0).
+Поток 0x2f24 завершился с кодом 0 (0x0).
+"OpenGLrememberProj.exe" (Win32). Выгружено "C:\Windows\SysWOW64\shlwapi.dll"
+"OpenGLrememberProj.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ntasn1.dll"
+"OpenGLrememberProj.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ncrypt.dll"
+"OpenGLrememberProj.exe" (Win32). Выгружено "C:\Windows\SysWOW64\igd10iumd32.dll"
+Поток 0x2dc8 завершился с кодом 0 (0x0).
+Поток 0x2258 завершился с кодом 0 (0x0).
+Поток 0x164c завершился с кодом 0 (0x0).
+Поток 0x3238 завершился с кодом 0 (0x0).
+Поток 0x640 завершился с кодом 0 (0x0).
+Поток 0xb14 завершился с кодом 0 (0x0).
+Поток 0x1cf0 завершился с кодом 0 (0x0).
+Поток 0x1454 завершился с кодом 0 (0x0).
+Программа "[10272] OpenGLrememberProj.exe" завершилась с кодом 0 (0x0).
