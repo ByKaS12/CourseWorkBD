@@ -481,7 +481,7 @@ void initRender(OpenGL *ogl)
 
 	rec.setSize(300, 100);
 	rec.setPosition(10, ogl->getHeight() - 100-10);
-	rec.setText("T - вкл/выкл текстур\nL - вкл/выкл освещение\nF - Свет из камеры\nG - двигать свет по горизонтали\nG+ЛКМ двигать свет по вертекали",0,0,0);
+	rec.setText("U - открыть дверь\nI - закрыть дверь\nO - включить ноутбук\nP - Выключить ноутбук\nK - включить холодильник",0,0,0);
 	
 	
 }
@@ -512,7 +512,7 @@ void Game_show() {
 	}
 	else
 		glEnable(GL_TEXTURE_2D);
-		glEnable(GL_LIGHTING);
+		//glEnable(GL_LIGHTING);
 
 	glBindTexture(GL_TEXTURE_2D, 0);
 
@@ -520,7 +520,7 @@ void Game_show() {
 	glEnable(GL_DEPTH_TEST);
 
 	//woodTex.bindTexture();
-
+	glColor3d(1, 1, 1);
 	PUSH;
 	glRotated(90, 1, 0, 0);
 	woodTex.bindTexture();
@@ -641,7 +641,7 @@ void Game_show() {
 	win.DrawObj();
 	POP;
 	PUSH;
-	
+	none_active.bindTexture();
 	glRotated(90, 1, 0, 0);
 	note.DrawObj();
 	if (flag == 'O') {
@@ -649,14 +649,17 @@ void Game_show() {
 			PlaySound("Sounds//active.wav", NULL, SND_SYNC);
 			flagO = false;
 		}
+		PUSH;
 		active.bindTexture();
+		glTranslated(0.001,0.001,0.001);
 		note.DrawObj();
+		POP;
 	}
 	else 
 		flagO = true;
 		
 
-	//none_active.bindTexture();
+	
 	POP;
 	if (flag == 'P') {
 		if (flagP) {

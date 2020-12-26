@@ -154,7 +154,7 @@ void OpenGL::render()
 	mainLight->SetUpLight();
 	
 	glEnable(GL_DEPTH_TEST);
-	DrawAxes();
+	//DrawAxes();
 	//drawPlane();
 	
 	
